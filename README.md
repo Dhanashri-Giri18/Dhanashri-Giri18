@@ -1,16 +1,21 @@
-## Hi there 👋
+# PUBG Esports Analytics
 
-<!--
-**Dhanashri150/Dhanashri150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About the Project
 
-Here are some ideas to get you started:
+This project focuses on analyzing real PUBG Mobile esports tournament data to understand team and player performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The project will use data analysis, statistics, data visualization, and machine learning techniques to explore competitive PUBG esports data.
+
+## Project Status
+
+🚧 This project is currently under development.
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
